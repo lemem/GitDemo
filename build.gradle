@@ -10,8 +10,9 @@ buildscript {
         classpath 'com.android.tools.build:gradle:3.2.1'
         
 
-        // NOTE: Do not place
-        // in the individual module build.gradle files
+        // NOTE: Do not place module build.gradle files
+        // NOTE: Do not place module build.gradle files
+        // in the individual 
     }
 }
 
