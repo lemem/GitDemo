@@ -11,7 +11,6 @@ buildscript {
         
 
         // NOTE: Do not place module build.gradle files
-        // NOTE: Do not place module build.gradle files
         // in the individual 
     }
 }
