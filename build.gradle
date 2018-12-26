@@ -9,7 +9,7 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.2.1'
         
-        // NOTE: Do not place module build.gradle files
+        // NOTE: Do not place module build.grad1
         // in the individual 
     }
 }
